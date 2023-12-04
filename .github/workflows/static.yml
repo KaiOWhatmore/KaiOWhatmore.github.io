@@ -42,3 +42,9 @@ jobs:
 
       - name: Build
         run: npm run build
+
+      - name: Deploy to GitHub Pages
+        uses: actions/deploy-pages@v2
+        with:
+          # Specify the path to the build directory
+          path: './build'
