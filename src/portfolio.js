@@ -170,7 +170,7 @@ const workExperiences = {
       date: "August 2022 – Present",
       desc: "Back Office Java Backend Developer using maven, PL/SQL, shell scripting, linux and Docker",
       descBullets: [
-        "Developed Docker Starter, a desktop tool for devs, upgrading tech with JavaFX, Docker, WSL, and shell scripting.",
+        "Built Docker Starter, a desktop tool for devs, upgrading tech with JavaFX, Docker, WSL, and shell scripting.",
         "Built tools for automating new workspace environments, reducing setup times by half ",
         "Constructed a robust testing framework, enhancing QC in PL/SQL view evaluations",
         "Optimized CI/CD, fortifying build configurations and schema commitments"
