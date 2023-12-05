@@ -34,7 +34,7 @@ const greeting = {
 
 const socialMediaLinks = {
   github: "https://github.com/KaiOWhatmore",
-  linkedin: "linkedin.com/in/kai-☕-whatmore-8273a2206",
+  linkedin: "https://www.linkedin.com/in/kai-%E2%98%95-whatmore-8273a2206",
   gmail: "oscar1995@live.com.au",
   // Instagram, Twitter and Kaggle are also supported in the links!
   // To customize icons and social links, tweak src/components/SocialMedia
