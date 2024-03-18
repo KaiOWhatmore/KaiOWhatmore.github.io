@@ -50,7 +50,7 @@ const skillsSection = {
     emoji(
       "⚡ Woking in enterprise environments working with complex backend systems"
     ),
-    emoji("⚡ Putting my nose to the grindwheel on REST APIs, Back Office backend engineering, DevOps and Developer Tools"),
+    emoji("⚡ Putting my shouder to the wheel on REST APIs, Back Office backend engineering, DevOps and Developer Tools"),
     emoji(
       "⚡ Self teaching React and FrontEnd development for pet projects and professional aspirations"
     )
