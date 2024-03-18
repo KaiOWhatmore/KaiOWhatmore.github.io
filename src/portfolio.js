@@ -45,7 +45,7 @@ const socialMediaLinks = {
 
 const skillsSection = {
   title: "What I do",
-  subTitle: "SELF TAUGHT CRAZY DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
+  subTitle: "SELF TAUGHT DEVELOPER WHO WANTS TO EXPLORE EVERY TECH STACK",
   skills: [
     emoji(
       "⚡ Woking in enterprise environments working with complex backend systems"
@@ -177,7 +177,7 @@ const workExperiences = {
       company: "MediRecords",
       companylogo: require("./assets/images/medirecords.webp"),
       date: "June 2021 – August 2022",
-      desc: "Java developer focused in REST-API's, CI/CD DevOps deployments and agile work methodologies",  
+      desc: "Java developer focused in REST-API's, CI/CD DevOps deployments and agile work methodologies",
       descBullets: [
         "Developed and deployed healthcare REST-APIs using the FHIR-HAPI framework",
         "Steered deployments as release manager, leveraging Jenkins pipelines",
@@ -192,7 +192,7 @@ const workExperiences = {
       date: "Jan 2020 – June 2020",
       desc: "Worked as a one-person army for data analysis on business finances and built ETL tools for automation",
       descBullets: [
-        "Orchestrated comprehensive data management, encompassing extraction, migration, and cleansing for pivotal mental health initiatives", 
+        "Orchestrated comprehensive data management, encompassing extraction, migration, and cleansing for pivotal mental health initiatives",
         "Conceived and executed an advanced ETL pipeline, leveraging SQL and Python prowess",
         "Deployed Tableau to craft insightful dashboards, shedding light on sales trajectories"
       ]
@@ -291,7 +291,7 @@ const achievementSection = {
       image: require("./assets/images/pwaLogo.webp"),
       imageAlt: "PWA Logo",
       footerLink: [
-        {name: "Certification", url: ""},
+        { name: "Certification", url: "" },
         {
           name: "Final Project",
           url: "https://pakistan-olx-1.firebaseapp.com/"
