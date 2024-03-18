@@ -17,10 +17,6 @@ Hi, I'm Kai! A passionate Back End Software Developer with a knack for building 
 ## Education
 Bachelor of Mathematics and Physics from Sydney University, with a focus on Applied Mathematics, Quantum Physics, and more.
 
-## Open Source Projects
-- PE-Algorithms (Python)
-- Stores-REST-API (Python)
-
 ## Let's Connect!
 - **Email**: [your-email](mailto:your-email@example.com)
 - **LinkedIn**: [Your LinkedIn](https://www.linkedin.com)
