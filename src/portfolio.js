@@ -186,15 +186,16 @@ const workExperiences = {
       ]
     },
     {
-      role: "Backend Developer, Data Scientist",
+      role: "Full Stack Developer, Data Scientist",
       company: "Break The Chain",
+      companyLink: "https://breakthechain.net", // Add this line
       companylogo: require("./assets/images/break-the-chain.webp"),
       date: "Jan 2020 – June 2020",
-      desc: "Worked as a one-person army for data analysis on business finances and built ETL tools for automation",
+      desc: "Data Analyst, Web Designer, Web Developer and Product Advisor",
       descBullets: [
-        "Orchestrated comprehensive data management, encompassing extraction, migration, and cleansing for pivotal mental health initiatives",
-        "Conceived and executed an advanced ETL pipeline, leveraging SQL and Python prowess",
-        "Deployed Tableau to craft insightful dashboards, shedding light on sales trajectories"
+        "Designed and developed the Break The Chain webpage: https://breakthechain.net, using figma, wordpress and branding acumen",
+        "Conceived and executed ETL pipelines, leveraging SQL and Python technologies",
+        "Used Tableau to craft insightful dashboards, shedding light on sales trajectories"
       ]
     }
   ]
