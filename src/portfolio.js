@@ -163,7 +163,7 @@ const workExperiences = {
       role: "Backend Software Engineer",
       company: "Worldline",
       companylogo: require("./assets/images/worldline.png"),
-      date: "August 2022 – Present",
+      date: "August 2022 – 2024",
       desc: "Back Office Java Backend Developer using maven, PL/SQL, shell scripting, linux and Docker",
       descBullets: [
         "Built Docker Starter, a desktop tool for devs, upgrading tech with JavaFX, Docker, WSL, and shell scripting.",
